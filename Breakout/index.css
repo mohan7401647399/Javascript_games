@@ -1,13 +1,10 @@
-*{
-    display: flex;
-    justify-content: center;
-}
-
 .score{
     padding: 10px;
     margin: 10px;
     font-weight: 800;
     margin-top: 40px;
+    display: flex;
+    justify-content: center;
 }
 
 .grid {
@@ -15,7 +12,7 @@
     width: 560px;
     border: 1px solid black;
     position: absolute;
-    margin-top: 100px;
+    margin-left: 340px;
 }
 
 .block {
